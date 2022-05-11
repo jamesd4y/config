@@ -1,18 +1,18 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@typescript-eslint/eslint-plugin': ''
-  '@typescript-eslint/parser': ''
-  eslint-config-next: ''
-  eslint-config-prettier: ''
-  eslint-plugin-prettier: ''
-  eslint-plugin-simple-import-sort: ''
-  next: ''
-  prettier: ''
-  prettier-plugin-tailwindcss: ''
-  react: ''
-  react-dom: ''
-  typescript: ''
+  '@typescript-eslint/eslint-plugin': ^5.23.0
+  '@typescript-eslint/parser': ^5.23.0
+  eslint-config-next: ^12.1.6
+  eslint-config-prettier: ^8.5.0
+  eslint-plugin-prettier: ^4.0.0
+  eslint-plugin-simple-import-sort: ^7.0.0
+  next: ^12.1.6
+  prettier: ^2.6.2
+  prettier-plugin-tailwindcss: ^0.1.10
+  react: ^18.1.0
+  react-dom: ^18.1.0
+  typescript: ^4.6.4
 
 dependencies:
   '@typescript-eslint/eslint-plugin': 5.23.0_f06b23a66eba87fdeeb550464cb2eccb
