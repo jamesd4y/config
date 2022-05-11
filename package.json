@@ -1,6 +1,6 @@
 {
   "name": "@jamesd4y/config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "James' styling and typescript configs",
   "files": [
     "eslint",
